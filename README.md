@@ -24,5 +24,3 @@ This repository hosts **Business Requirements Specifications (BRS)** and **Syste
 
 ---
 
-## 📁 Repository Structure
-
